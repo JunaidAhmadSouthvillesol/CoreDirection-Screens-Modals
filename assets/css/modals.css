@@ -3,13 +3,13 @@
 }
 
 .wearable-title {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 30px;
     font-weight: 700;
     line-height: 37px;
     letter-spacing: 0em;
     text-align: center;
-    color: #06070E;
+    color: #06070e;
     margin-top: 41px;
 }
 
@@ -22,24 +22,24 @@
 }
 
 .wearable-subtitle {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 16px;
     font-weight: 700;
     line-height: 24px;
     letter-spacing: -0.011em;
     text-align: center;
     margin-bottom: 15px;
-    color: #06070E;
+    color: #06070e;
 }
 
 .wearable-desc {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 400;
     line-height: 21px;
     letter-spacing: -0.011em;
     text-align: center;
-    color: #06070E;
+    color: #06070e;
     max-width: 430px;
 }
 
@@ -58,19 +58,19 @@
 
 .score-point-item.active svg,
 .score-point-item.active path {
-    fill: #690FAD;
+    fill: #690fad;
 }
 
 .btn-warable-action {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 700;
     line-height: 17px;
     letter-spacing: 0em;
     text-align: center;
     padding: 15px;
-    border: 1px solid #690FAD;
-    color: #690FAD;
+    border: 1px solid #690fad;
+    color: #690fad;
     border-radius: 50px;
 }
 
@@ -92,12 +92,12 @@
 }
 
 .btn-warable-action:hover {
-    color: #FFFFFF;
-    background: #690FAD;
+    color: #ffffff;
+    background: #690fad;
 }
 
 .btn-prev {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 500;
     line-height: 17px;
@@ -131,7 +131,7 @@
 }
 
 .activity-name {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 10px;
     font-weight: 400;
     line-height: 12px;
@@ -140,7 +140,7 @@
 }
 
 .activity-points {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 18px;
     font-weight: 600;
     line-height: 22px;
@@ -149,7 +149,7 @@
 }
 
 activity-duration {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 12px;
     font-weight: 400;
     line-height: 15px;
@@ -166,7 +166,7 @@ activity-duration {
 }
 
 .point-scoring-title {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 700;
     line-height: 21px;
@@ -177,7 +177,7 @@ activity-duration {
 }
 
 .point-scoring-desc {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 12px;
     font-weight: 500;
     line-height: 15px;
@@ -194,7 +194,7 @@ activity-duration {
 }
 
 .activity-name {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 10px;
     font-weight: 400;
     line-height: 12px;
@@ -203,22 +203,47 @@ activity-duration {
 }
 
 .btn-next {
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-size: 14px;
     font-weight: 700;
     line-height: 17px;
     letter-spacing: 0em;
     text-align: center;
-    color: #690FAD;
+    color: #690fad;
 }
 
 .btn-next svg {
     margin-left: 10px;
 }
 
+.nextCarousel {
+    width: 6rem;
+    height: 2rem;
+    font-weight: bold;
+    position: absolute;
+    bottom: 1.5rem;
+    right: 0;
+}
 
+.nextBtn {
+    color: #690fad;
+}
 
+.close {
+    position: absolute;
+    top: 2%;
+    right: 4%;
+}
 
-
-
-
+.prevCarousel {
+    width: 6rem;
+    height: max-content;
+    font-size: small;
+    font-weight: 400;
+    color: #000000;
+    position: absolute;
+    top: 1rem;
+}
+.bordRadius{
+    border-radius: 30px !important;
+}

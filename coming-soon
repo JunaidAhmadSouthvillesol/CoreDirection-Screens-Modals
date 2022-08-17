@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="robots" content="noindex">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Coming Soon | Core Direction</title>
+<meta name="title" content="Coming Soon | Core Direction">
+<meta name="description"
+    content="A fitness, health & wellness company powered by technology committed to finding inspiring the world to move.">
+<meta name="keywords"
+    content="Core Direction, Coredirection, yoga at the view, Core direction yoga, Core Direction dubai, sunrise yoga Dubai, yoga burj khalifa, sunset yoga dubai, green planet yoga, burj khalifa yoga, corporate wellness dubai, event consultant dubai, booking system dubai, fitness booking system,">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="language" content="English">
+<meta name="author" content="Core Direction">
+
+<!--CDN Connection-->
+<link rel="preconnect" href="https://cdn.coredirection.com"/>
+
+<!-- Favicons -->
+<link rel="preconnect" href="https://cdn.coredirection.com"/>
+<link href="https://cdn.coredirection.com/cdn-cgi/image/quality=auto,format=auto/landing-page/assets/img/favicon.png"
+    rel="icon">
+<link
+    href="https://cdn.coredirection.com/cdn-cgi/image/quality=auto,format=auto/landing-page/assets/img/apple-touch-icon.png"
+    rel="apple-touch-icon">
+
+<!-- Vendor CSS Files -->
+<link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+<link href="assets/vendor/remixicon/remixicon.css" rel="stylesheet">
+
+<!-- Template Main CSS File -->
+<link href="assets/css/style.v8.css" rel="stylesheet">
+
+<!-- Graph tags -->
+<meta property="og:title" content="Coming Soon">
+<meta property="og:site_name" content="Core Direction">
+<meta property="og:url" content="https://coredirection.com/">
+<meta property="og:description" content="404 error, page not found.">
+<meta property="og:type" content="website">
+<meta property="og:image"
+    content="https://cdn.coredirection.com/cdn-cgi/image/quality=auto,format=auto/landing-page/assets/img/og_img.jpg">
+</head>
+
+<body>
+<!-- ======= Header ======= -->
+<header id="header" class="fixed-top">
+  <div class="container d-flex align-items-center justify-content-between"> <a href="https://coredirection.com" class="logo" style="margin-right: auto;"> <img src="assets/img/logo_svg.svg"
+          width="200" height="44" alt="Core Direction Logo" class="img-fluid"> </a>
+    <nav id="navbar" class="navbar">
+      <ul>
+        <li><a class="nav-link scrollto active" href="https://coredirection.com">Home</a></li>
+        <li><a class="nav-link scrollto" href="https://my.coredirection.com" target="_blank">Marketplace</a></li>
+        <li><a class="nav-link scrollto" href="https://coredirection.com#corporate">Corporate Wellness</a></li>
+        <li><a class="nav-link scrollto o" href="https://coredirection.com#events">Event Consultancy</a></li>
+        <li><a class="nav-link scrollto o" href="https://coredirection.com#technology">Booking Technology</a></li>
+          <li><a class="nav-link scrollto" href="https://coredirection.com/contact-us">Contact</a></li>
+        <li><a href="https://my.coredirection.com" class="getstarted scrollto" target="_blank">Book Activity</a></li>
+      </ul>
+      <i class="ri-menu-line mobile-nav-toggle"></i> </nav>
+    <!-- .navbar -->
+    <a href="https://my.coredirection.com" class="get-started-btn scrollto hide" style="margin-left: 1rem;"
+        target="_blank">Book Activity</a> </div>
+</header>
+<!-- End Header -->
+
+  <!-- ======= #main ======= -->
+  <main id="main">
+    <!-- page-not-found -->
+    <section id="page-not-found">
+      <div class="container">
+        <div class="page-not-found-content-box">
+          <h4 class="page-not-found-title text-center"><i class="ri-timer-line"></i></h4>
+          <p class="page-not-found-subtitle text-center">Coming Soon</p>
+          <p class="page-not-found-desc text-center">We're currently working on building this page for you! Check back
+            soon.</p>
+          <div class="btn-box"> <a href="https://coredirection.com" class="btn-page-not-found rounded-full">Home</a> <a
+              href="https://my.coredirection.com/" class="btn-book-activity rounded-full">Book Activity</a> </div>
+        </div>
+      </div>
+    </section>
+  </main>
+  <!-- End #main -->
+
+<!-- footer -->
+<footer id="footer">
+  <div class="container footer-top">
+    <div class="info"> <img loading="lazy"
+          src="assets/img/logo_svg.svg"
+          width="200" height="44" alt="Core Direction Logo" class="img-fluid">
+      <ul role="list">
+        <li class="mb-3">
+          <p class="footer-desc">A fitness, health & wellness company powered by technology committed to finding the
+            most inspiring businesses, events, activities, classes and passes in an effort to inspire fitness, health
+            & happiness globally.</p>
+        </li>
+        <ul role="list" class="social-list">
+          <li class="social-item"> <a href="https://www.facebook.com/coredirection" target="_blank" class="social-link">
+            <svg width="29" height="29" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                    d="M59 29.5C59 13.2059 45.7941 0 29.5 0C13.2059 0 0 13.2059 0 29.5C0 45.7941 13.2059 59 29.5 59C29.6729 59 29.8457 59 30.0186 58.9885V36.0338H23.6807V28.6473H30.0186V23.2082C30.0186 16.9049 33.8674 13.4709 39.4908 13.4709C42.1873 13.4709 44.5035 13.6668 45.1719 13.759V20.3504H41.3C38.2463 20.3504 37.6471 21.8023 37.6471 23.9342V28.6357H44.9645L44.008 36.0223H37.6471V57.8592C49.9771 54.3215 59 42.9709 59 29.5Z"
+                    fill="#690FAD" />
+            </svg>
+            </a> </li>
+          <li class="social-item"> <a href="https://www.instagram.com/coredirection/" target="_blank" class="social-link">
+            <svg width="29" height="29" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                    d="M35.1445 29.5C35.1445 32.6185 32.6166 35.1465 29.498 35.1465C26.3795 35.1465 23.8516 32.6185 23.8516 29.5C23.8516 26.3815 26.3795 23.8535 29.498 23.8535C32.6166 23.8535 35.1445 26.3815 35.1445 29.5Z"
+                    fill="#690FAD" />
+              <path
+                    d="M42.706 19.5096C42.4345 18.7741 42.0015 18.1083 41.4388 17.5619C40.8924 16.9992 40.2271 16.5662 39.4911 16.2947C38.8942 16.0629 37.9976 15.787 36.346 15.7118C34.5594 15.6303 34.0238 15.6128 29.5008 15.6128C24.9774 15.6128 24.4418 15.6299 22.6556 15.7114C21.0041 15.787 20.107 16.0629 19.5105 16.2947C18.7746 16.5662 18.1088 16.9992 17.5628 17.5619C17.0001 18.1083 16.5671 18.7736 16.2952 19.5096C16.0634 20.1065 15.7875 21.0036 15.7123 22.6551C15.6308 24.4413 15.6133 24.9769 15.6133 29.5003C15.6133 34.0233 15.6308 34.5589 15.7123 36.3455C15.7875 37.9971 16.0634 38.8937 16.2952 39.4906C16.5671 40.2266 16.9997 40.8919 17.5624 41.4383C18.1088 42.001 18.7741 42.434 19.5101 42.7055C20.107 42.9377 21.0041 43.2137 22.6556 43.2888C24.4418 43.3703 24.977 43.3874 29.5004 43.3874C34.0242 43.3874 34.5599 43.3703 36.3456 43.2888C37.9971 43.2137 38.8942 42.9377 39.4911 42.7055C40.9684 42.1356 42.1361 40.968 42.706 39.4906C42.9378 38.8937 43.2137 37.9971 43.2893 36.3455C43.3708 34.5589 43.3879 34.0233 43.3879 29.5003C43.3879 24.9769 43.3708 24.4413 43.2893 22.6551C43.2142 21.0036 42.9382 20.1065 42.706 19.5096ZM29.5008 38.1983C24.6965 38.1983 20.802 34.3042 20.802 29.4999C20.802 24.6956 24.6965 20.8015 29.5008 20.8015C34.3047 20.8015 38.1992 24.6956 38.1992 29.4999C38.1992 34.3042 34.3047 38.1983 29.5008 38.1983ZM38.5431 22.4904C37.4205 22.4904 36.5103 21.5802 36.5103 20.4576C36.5103 19.335 37.4205 18.4248 38.5431 18.4248C39.6658 18.4248 40.5759 19.335 40.5759 20.4576C40.5755 21.5802 39.6658 22.4904 38.5431 22.4904Z"
+                    fill="#690FAD" />
+              <path
+                    d="M29.5 0C13.2101 0 0 13.2101 0 29.5C0 45.7899 13.2101 59 29.5 59C45.7899 59 59 45.7899 59 29.5C59 13.2101 45.7899 0 29.5 0ZM46.3373 36.4838C46.2553 38.2871 45.9686 39.5182 45.55 40.5958C44.67 42.8712 42.8712 44.67 40.5958 45.55C39.5186 45.9686 38.2871 46.2549 36.4843 46.3373C34.6779 46.4196 34.1008 46.4395 29.5005 46.4395C24.8996 46.4395 24.323 46.4196 22.5162 46.3373C20.7134 46.2549 19.4818 45.9686 18.4046 45.55C17.2739 45.1246 16.2503 44.458 15.404 43.596C14.5425 42.7502 13.8758 41.7261 13.4505 40.5958C13.0318 39.5186 12.7451 38.2871 12.6632 36.4843C12.5799 34.6774 12.5605 34.1004 12.5605 29.5C12.5605 24.8996 12.5799 24.3226 12.6627 22.5162C12.7447 20.7129 13.0309 19.4818 13.4496 18.4042C13.8749 17.2739 14.542 16.2498 15.404 15.404C16.2498 14.542 17.2739 13.8754 18.4042 13.45C19.4818 13.0314 20.7129 12.7451 22.5162 12.6627C24.3226 12.5804 24.8996 12.5605 29.5 12.5605C34.1004 12.5605 34.6774 12.5804 36.4838 12.6632C38.2871 12.7451 39.5182 13.0314 40.5958 13.4496C41.7261 13.8749 42.7502 14.542 43.5964 15.404C44.458 16.2503 45.1251 17.2739 45.55 18.4042C45.9691 19.4818 46.2553 20.7129 46.3377 22.5162C46.4201 24.3226 46.4395 24.8996 46.4395 29.5C46.4395 34.1004 46.4201 34.6774 46.3373 36.4838Z"
+                    fill="#690FAD" />
+            </svg>
+            </a> </li>
+          <li class="social-item"> <a href="https://twitter.com/core_direction" target="_blank" class="social-link">
+            <svg width="29" height="29" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                    d="M29.5 0C13.2101 0 0 13.2101 0 29.5C0 45.7899 13.2101 59 29.5 59C45.7899 59 59 45.7899 59 29.5C59 13.2101 45.7899 0 29.5 0ZM42.9694 23.001C42.9824 23.2913 42.9887 23.583 42.9887 23.876C42.9887 32.8233 36.1782 43.1409 23.7234 43.1413H23.7239H23.7234C19.8995 43.1413 16.3412 42.0205 13.3447 40.0998C13.8745 40.1623 14.4137 40.1934 14.9598 40.1934C18.1323 40.1934 21.0519 39.1113 23.3696 37.295C20.4055 37.2401 17.9063 35.2824 17.0439 32.592C17.4567 32.6712 17.8811 32.7144 18.3164 32.7144C18.9344 32.7144 19.5331 32.6311 20.1021 32.4758C17.0038 31.8556 14.6699 29.1174 14.6699 25.8386C14.6699 25.808 14.6699 25.7805 14.6708 25.7522C15.5832 26.2595 16.6266 26.5647 17.7375 26.5989C15.9194 25.3858 14.7243 23.312 14.7243 20.9628C14.7243 19.7222 15.0597 18.5599 15.6413 17.5593C18.9804 21.6564 23.9706 24.3509 29.5981 24.634C29.482 24.138 29.4221 23.6212 29.4221 23.0901C29.4221 19.3522 32.4547 16.3196 36.1939 16.3196C38.1417 16.3196 39.9008 17.1429 41.1364 18.4591C42.679 18.1548 44.1276 17.5912 45.4361 16.8157C44.9297 18.3961 43.8566 19.7222 42.4585 20.5608C43.8282 20.3969 45.1336 20.0337 46.3467 19.4944C45.4406 20.8525 44.2914 22.0453 42.9694 23.001Z"
+                    fill="#690FAD"></path>
+            </svg>
+            </a> </li>
+          <li class="social-item"> <a href="https://www.linkedin.com/company/coredirection/" target="_blank" class="social-link">
+            <svg fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="29" height="29">
+              <path
+                    d="M25,2C12.318,2,2,12.317,2,25s10.318,23,23,23s23-10.317,23-23S37.682,2,25,2z M18,35h-4V20h4V35z M16,17 c-1.105,0-2-0.895-2-2c0-1.105,0.895-2,2-2s2,0.895,2,2C18,16.105,17.105,17,16,17z M37,35h-4v-5v-2.5c0-1.925-1.575-3.5-3.5-3.5 S26,25.575,26,27.5V35h-4V20h4v1.816C27.168,20.694,28.752,20,30.5,20c3.59,0,6.5,2.91,6.5,6.5V35z"
+                    fill="#690FAD" />
+            </svg>
+            </a> </li>
+          <li class="social-item"> <a href="https://www.youtube.com/channel/UC_4V4td655WQtkU6Joq301Q" target="_blank" class="social-link">
+            <svg width="29" height="29" viewBox="0 0 59 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M25.8242 35.0266L35.4202 29.4999L25.8242 23.9731V35.0266Z" fill="#690FAD" />
+              <path
+                    d="M29.5 0C13.2101 0 0 13.2101 0 29.5C0 45.7899 13.2101 59 29.5 59C45.7899 59 59 45.7899 59 29.5C59 13.2101 45.7899 0 29.5 0ZM47.933 29.5302C47.933 29.5302 47.933 35.5129 47.1741 38.3978C46.7487 39.9769 45.5036 41.2219 43.9246 41.6469C41.0396 42.4062 29.5 42.4062 29.5 42.4062C29.5 42.4062 17.9905 42.4062 15.0754 41.6167C13.4964 41.1918 12.2513 39.9463 11.8259 38.3672C11.0666 35.5129 11.0666 29.5 11.0666 29.5C11.0666 29.5 11.0666 23.5177 11.8259 20.6328C12.2509 19.0537 13.5265 17.7781 15.0754 17.3531C17.9604 16.5938 29.5 16.5938 29.5 16.5938C29.5 16.5938 41.0396 16.5938 43.9246 17.3833C45.5036 17.8082 46.7487 19.0537 47.1741 20.6328C47.9636 23.5177 47.933 29.5302 47.933 29.5302Z"
+                    fill="#690FAD" />
+            </svg>
+            </a> </li>
+          <li class="social-item"> <a href="https://www.tiktok.com/@coredirection" target="_blank" class="social-link">
+            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+                  width="29" height="29" viewBox="0 0 256 256" xml:space="preserve">
+              <g transform="translate(128 128) scale(0.72 0.72)">
+                <g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;"
+                      transform="translate(-175.05 -175.05000000000004) scale(3.89 3.89)">
+                  <path
+                        d="M 45 0 C 20.147 0 0 20.147 0 45 c 0 24.853 20.147 45 45 45 s 45 -20.147 45 -45 C 90 20.147 69.853 0 45 0 z M 72.039 33.277 v 6.758 c -3.187 0.001 -6.283 -0.623 -9.203 -1.855 c -1.878 -0.793 -3.627 -1.814 -5.227 -3.048 l 0.048 20.801 c -0.02 4.684 -1.873 9.085 -5.227 12.4 c -2.73 2.698 -6.188 4.414 -9.937 4.97 c -0.881 0.13 -1.777 0.197 -2.684 0.197 c -4.013 0 -7.823 -1.3 -10.939 -3.698 c -0.586 -0.452 -1.147 -0.941 -1.681 -1.468 c -3.635 -3.593 -5.509 -8.462 -5.194 -13.584 c 0.241 -3.899 1.802 -7.618 4.404 -10.532 c 3.443 -3.857 8.26 -5.998 13.41 -5.998 c 0.906 0 1.803 0.068 2.684 0.198 v 2.499 v 6.951 c -0.835 -0.275 -1.727 -0.427 -2.656 -0.427 c -4.705 0 -8.512 3.839 -8.442 8.548 c 0.045 3.013 1.69 5.646 4.118 7.098 c 1.141 0.682 2.453 1.105 3.853 1.182 c 1.097 0.06 2.151 -0.093 3.126 -0.415 c 3.362 -1.111 5.787 -4.268 5.787 -7.992 l 0.011 -13.93 V 16.5 h 9.307 c 0.009 0.922 0.103 1.822 0.276 2.694 c 0.702 3.529 2.692 6.591 5.46 8.678 c 2.414 1.821 5.42 2.9 8.678 2.9 c 0.002 0 0.029 0 0.027 -0.002 V 33.277 z"
+                        style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: #690FAD; fill-rule: nonzero; opacity: 1;"
+                        transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+                </g>
+              </g>
+            </svg>
+            </a> </li>
+        </ul>
+      </ul>
+    </div>
+    <div class="links">
+      <p class="font-bold">Company</p>
+      <ul role="list">
+        <li class="list-item"> <a href="https://coredirection.com/corporate-wellness" target="_blank">Corporate Wellness</a> </li>
+        <li class="list-item"> <a href="https://coredirection.com/events" target="_blank">Event Consultancy</a> </li>
+        <li class="list-item"> <a href="https://coredirection.com/white-label-booking-solution" target="_blank">Booking Solution</a> </li>
+      </ul>
+    </div>
+    <div class="links">
+      <p class="font-bold mb-4">Explore</p>
+      <ul role="list">
+        <li class="list-item"> <a href="https://my.coredirection.com/listing" target="_blank">Marketplace</a> </li>
+        <li class="list-item"> <a href="https://coredirection.com/partner_with_us" target="_blank">Partner with Us</a> </li>
+        <li class="list-item"> <a href="https://coredirection.com/user-guides-home" target="_blank">User Guides</a> </li>
+        <li class="list-item"> <a href="https://coredirection.com/contact-us" target="_blank">Contact Us</a> </li>
+      </ul>
+    </div>
+    <div class="links">
+      <p class="font-bold mb-4">Legal</p>
+      <ul role="list">
+        <li class="list-item"> <a href="https://coredirection.com/privacy-policy" target="_blank">Privacy Policy</a> </li>
+        <li class="list-item"> <a href="https://coredirection.com/terms-and-conditions" target="_blank">Terms & Conditions</a> </li>
+        <li class="list-item"> <a href="https://coredirection.com/cookie-policy" target="_blank">Cookie Policy</a> </li>
+      </ul>
+    </div>
+  </div>
+  <div class="container footer-bottom">
+    <p class="copyright">Copyright© (2022). Core Direction Holding Ltd. All right reserved</p>
+  </div>
+</footer>
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"> <i class="ri-arrow-up-line"></i> </a>
+
+<!-- Vendor JS Files -->
+<script src="assets/vendor/jQuery/jquery-3.6.0.min.js" defer></script>
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js" defer></script>
+<script src="assets/vendor/glightbox/js/glightbox.min.js" defer></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.v5.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,224 @@
+.modal-dialog {
+    max-width: 650px !important;
+}
+
+.wearable-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 37px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #06070E;
+    margin-top: 41px;
+}
+
+.wearable-track-list {
+    margin-top: 57px;
+    margin-bottom: 46px;
+    -webkit-column-gap: 30px;
+    column-gap: 30px;
+    row-gap: 30px;
+}
+
+.wearable-subtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: -0.011em;
+    text-align: center;
+    margin-bottom: 15px;
+    color: #06070E;
+}
+
+.wearable-desc {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: -0.011em;
+    text-align: center;
+    color: #06070E;
+    max-width: 430px;
+}
+
+.score-point-list {
+    -webkit-column-gap: 5px;
+    column-gap: 5px;
+    row-gap: 5px;
+    margin: 80px 0;
+    padding-left: 0;
+}
+
+.score-point-item svg {
+    width: 28px;
+    height: 28px;
+}
+
+.score-point-item.active svg,
+.score-point-item.active path {
+    fill: #690FAD;
+}
+
+.btn-warable-action {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid #690FAD;
+    color: #690FAD;
+    border-radius: 50px;
+}
+
+.wearable-btn-box {
+    width: 100%;
+    max-width: 360px;
+    row-gap: 10px;
+    margin: 70px 0;
+}
+
+.score-point-item svg {
+    width: 28px;
+    height: 28px;
+}
+
+.btn-modal-close {
+    width: 36px;
+    cursor: pointer;
+}
+
+.btn-warable-action:hover {
+    color: #FFFFFF;
+    background: #690FAD;
+}
+
+.btn-prev {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 10px;
+    outline: none;
+    border: none;
+    background-color: transparent;
+}
+
+.btn-prev svg {
+    margin-right: 10px;
+}
+
+.form-container {
+    width: 100%;
+    max-width: 560px;
+}
+
+.activity-box {
+    row-gap: 9px;
+    margin-top: 44px;
+    margin-bottom: 61px;
+}
+
+.activity-icon-box {
+    margin: auto;
+    max-width: 54px;
+    max-height: 54px;
+}
+
+.activity-name {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.activity-points {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+activity-duration {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.point-scoring-box {
+    width: 100%;
+    max-width: 360px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+.point-scoring-title {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: -0.011em;
+    text-align: center;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+.point-scoring-desc {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+.point-scoring-list {
+    -webkit-column-gap: 7.77px;
+    column-gap: 7.77px;
+    row-gap: 8px;
+    padding-left: 0;
+}
+
+.activity-name {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.btn-next {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #690FAD;
+}
+
+.btn-next svg {
+    margin-left: 10px;
+}
+
+
+
+
+
+
+

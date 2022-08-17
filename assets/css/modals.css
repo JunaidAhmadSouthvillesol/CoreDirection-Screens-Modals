@@ -7,7 +7,7 @@
     font-size: 30px;
     font-weight: 700;
     line-height: 37px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: center;
     color: #06070E;
     margin-top: 41px;
@@ -66,7 +66,7 @@
     font-size: 14px;
     font-weight: 700;
     line-height: 17px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: center;
     padding: 15px;
     border: 1px solid #690FAD;
@@ -101,7 +101,7 @@
     font-size: 14px;
     font-weight: 500;
     line-height: 17px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: left;
     margin-left: 10px;
     outline: none;
@@ -135,7 +135,7 @@
     font-size: 10px;
     font-weight: 400;
     line-height: 12px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: center;
 }
 
@@ -144,16 +144,16 @@
     font-size: 18px;
     font-weight: 600;
     line-height: 22px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: center;
 }
 
-activity-duration {
+.activity-duration {
     font-family: 'Montserrat', sans-serif;
     font-size: 12px;
     font-weight: 400;
     line-height: 15px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: center;
 }
 
@@ -181,7 +181,7 @@ activity-duration {
     font-size: 12px;
     font-weight: 500;
     line-height: 20px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: center;
     margin-bottom: 18px;
 }
@@ -198,7 +198,7 @@ activity-duration {
     font-size: 10px;
     font-weight: 400;
     line-height: 12px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: center;
 }
 
@@ -207,7 +207,7 @@ activity-duration {
     font-size: 14px;
     font-weight: 700;
     line-height: 17px;
-    letter-spacing: 0em;
+    letter-spacing: 0;
     text-align: center;
     color: #690FAD;
 }

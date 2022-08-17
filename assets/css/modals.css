@@ -244,3 +244,6 @@ activity-duration {
     position: absolute;
     top: 1rem;
 }
+.bordRadius{
+    border-radius: 30px !important;
+}

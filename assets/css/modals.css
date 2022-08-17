@@ -215,7 +215,9 @@
 .btn-next svg {
     margin-left: 10px;
 }
-
+.bordRadius{
+    border-radius: 30px !important;
+}
 
 
 
